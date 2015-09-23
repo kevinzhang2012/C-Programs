@@ -1,0 +1,7 @@
+C:\Users\Yuxiang\Desktop\assignment4\Assignment4Test\obj\Debug\Assignment4Test.csprojResolveAssemblyReference.cache
+C:\Users\Yuxiang\Desktop\assignment4\Assignment4Test\bin\Debug\Assignment4Test.dll
+C:\Users\Yuxiang\Desktop\assignment4\Assignment4Test\bin\Debug\Assignment4Test.pdb
+C:\Users\Yuxiang\Desktop\assignment4\Assignment4Test\bin\Debug\Library.dll
+C:\Users\Yuxiang\Desktop\assignment4\Assignment4Test\bin\Debug\Library.pdb
+C:\Users\Yuxiang\Desktop\assignment4\Assignment4Test\obj\Debug\Assignment4Test.dll
+C:\Users\Yuxiang\Desktop\assignment4\Assignment4Test\obj\Debug\Assignment4Test.pdb
