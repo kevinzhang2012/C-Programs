@@ -1,0 +1,7 @@
+C:\Users\13158665\Desktop\assignment3\assignment3\assignment3Test\obj\Debug\assignment3Test.csprojResolveAssemblyReference.cache
+C:\Users\13158665\Desktop\assignment3\assignment3\assignment3Test\bin\Debug\assignment3Test.dll
+C:\Users\13158665\Desktop\assignment3\assignment3\assignment3Test\bin\Debug\assignment3Test.pdb
+C:\Users\13158665\Desktop\assignment3\assignment3\assignment3Test\bin\Debug\assignment3.exe
+C:\Users\13158665\Desktop\assignment3\assignment3\assignment3Test\bin\Debug\assignment3.pdb
+C:\Users\13158665\Desktop\assignment3\assignment3\assignment3Test\obj\Debug\assignment3Test.dll
+C:\Users\13158665\Desktop\assignment3\assignment3\assignment3Test\obj\Debug\assignment3Test.pdb
